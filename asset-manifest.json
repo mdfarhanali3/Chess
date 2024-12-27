@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Chess/static/css/main.0e93dc4f.css",
+    "main.js": "/Chess/static/js/main.3c53d7f1.js",
+    "static/media/wking.png": "/Chess/static/media/wking.991b5086df36d5ac8271.png",
+    "static/media/whorse.png": "/Chess/static/media/whorse.ff545ed7be69bca7108a.png",
+    "static/media/wcamel.png": "/Chess/static/media/wcamel.e53b13a65aac95ea235a.png",
+    "static/media/wqueen.png": "/Chess/static/media/wqueen.4230be71a27a3b2a4e4d.png",
+    "static/media/wpawn.png": "/Chess/static/media/wpawn.d950489e49be1d63147e.png",
+    "static/media/welephant.png": "/Chess/static/media/welephant.abdbffc6e6baefc11c30.png",
+    "index.html": "/Chess/index.html",
+    "main.0e93dc4f.css.map": "/Chess/static/css/main.0e93dc4f.css.map",
+    "main.3c53d7f1.js.map": "/Chess/static/js/main.3c53d7f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e93dc4f.css",
+    "static/js/main.3c53d7f1.js"
+  ]
+}
